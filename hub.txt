@@ -1,0 +1,5 @@
+hub genomics_viz
+shortLabel genomics data
+longLabel genomics data
+genomesFile genomes.txt
+email lihua.huang@link.cuhk.edu.hk

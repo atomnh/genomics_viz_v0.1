@@ -1,0 +1,25 @@
+track mutation_freq_test
+bigDataUrl cg20449619.mut.pval.bw
+shortLabel Mut freq test
+longLabel Mutation frequency test
+type bigWig
+
+
+track meQTL
+bigDataUrl cg20449619.meqtl.pval.bw
+shortLabel meQTL
+longLabel meQTL
+type bigWig
+
+track mutation_freq_test
+bigDataUrl cg05101846.mut.pval.bw
+shortLabel Mut freq test
+longLabel Mutation frequency test
+type bigWig
+
+
+track meQTL
+bigDataUrl cg05101846.meqtl.pval.bw
+shortLabel meQTL
+longLabel meQTL
+type bigWig
