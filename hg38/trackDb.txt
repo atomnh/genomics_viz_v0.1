@@ -1,14 +1,14 @@
 track mutation_freq_test
 bigDataUrl mut.pval.bw
 shortLabel Mut freq test
-longLabel Mutation frequency test
+longLabel -log10 P-value of mutation frequency test
 type bigWig
 
 
 track meQTL
 bigDataUrl meqtl.pval.bw
 shortLabel meQTL
-longLabel meQTL
+longLabel associated SNPs through meQTLs
 type bigWig
 
 track Control_cov
