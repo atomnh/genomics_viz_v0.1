@@ -13,13 +13,13 @@ type bigWig
 
 track Control_cov
 bigDataUrl control.target.depth_mean.bw
-shortLabel Control_cov
+shortLabel Control cov
 longLabel Coverage in Control
 type bigWig
 
 track Decline_cov
 bigDataUrl decline.target.depth_mean.bw
-shortLabel Decline_cov
+shortLabel Decline cov
 longLabel Coverage in Decline
 type bigWig
 
