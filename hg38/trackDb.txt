@@ -11,13 +11,13 @@ shortLabel meQTL
 longLabel meQTL
 type bigWig
 
-track Control cov
+track Control.cov
 bigDataUrl control.target.depth_mean.bw
 shortLabel Control cov
 longLabel Coverage in Control
 type bigWig
 
-track Decline cov
+track Decline.cov
 bigDataUrl decline.target.depth_mean.bw
 shortLabel Decline cov
 longLabel Coverage in Decline
